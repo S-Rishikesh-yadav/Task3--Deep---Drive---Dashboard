@@ -48,6 +48,10 @@ using Looker Studio.
 ## Links
 - Live Dashboard: [https://datastudio.google.com/reporting/4bc07746-5a0a-4b1a-9c5f-da4432e568e0]
 
+## Folders
+- Scripts
+- Data
+  
 ## Files
 - Task3_Deep_Dive_Dashboard.ipynb
 - heart_cleaned.csv
