@@ -1,12 +1,5 @@
 # Task3--Deep---Drive---Dashboard
 
-## Internship Details
-- Company: ApexPlanet Software Pvt. Ltd.
-- Program: 60-Day Data Analytics Internship
-- Intern: Shivani Kumari
-- Task 3: Deep Dive Analysis & Dashboarding
-- Timeline: 12 Days
-
 ## About This Project
 Performed deep dive analysis on Heart Disease 
 Dataset and built an interactive dashboard 
